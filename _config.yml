@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Welcome!"
 title_separator          : "-"
 name                     : &name "Richard Luo"
@@ -26,8 +26,8 @@ author:
   avatar           : "headshot.jpg"
   name             : "Richard Luo"
   pronouns         : # example: "she/her"  
-  bio              : "Linguistics Ph.D. Student"
-  location         : "New Haven, CT"
+  # bio              : "Linguist"
+  # location         : "New Haven, CT"
   employer         : "Yale University"
   uri              : # URL
   email            : "richard.luo@yale.edu" 
