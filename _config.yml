@@ -23,10 +23,10 @@ repository               : "richardmas/richardmas.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot.HEIC"
   name             : "Richard Luo"
   pronouns         : # example: "she/her"  
-  bio              : "Linguist"
+  bio              : "Linguistics Ph.D. Student"
   location         : "New Haven, CT"
   employer         : "Yale University"
   uri              : # URL
