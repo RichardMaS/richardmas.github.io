@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Richard Luo's personal website"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "Welcome!"
 title_separator          : "-"
 name                     : &name "Richard Luo"
 description              : &description "Richard's personal academic website, linguistics and beyond."   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,7 +23,7 @@ repository               : "richardmas/richardmas.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot.HEIC"
+  avatar           : "headshot.jpg"
   name             : "Richard Luo"
   pronouns         : # example: "she/her"  
   bio              : "Linguistics Ph.D. Student"
