@@ -25,4 +25,6 @@ I am an incoming fourth-year Ph.D. student at [Yale Linguistics](https://ling.ya
 
 Currently, I am also a graduate fellow in the [European Studies Council](https://macmillan.yale.edu/europe/person/richard-luo) at Yale and a member of the [Caucasian Languages in Georgia International Research Network (CauLaGeNet)](https://sites.google.com/view/caulagenet/home).
 
+My surname is pronounced as \[lυ̯ɔ\] with a rising tone, but I also accept \[luˈoʊ\] in English conversation.
+
 Outside of linguistics, I like to indulge in card/board games, classical music, and nature hiking.
