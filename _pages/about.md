@@ -23,6 +23,6 @@ I am an incoming fourth-year Ph.D. student at [Yale Linguistics](https://ling.ya
     * *polarity sensitive items*
 <!-- Others: relativization, degrees, (un)conditionals -->
 
-I am currently also a graduate fellow in the [European Studies Council at Yale](https://macmillan.yale.edu/europe/person/richard-luo) and member of the [Caucasian Languages in Georgia International Research Network (CauLaGeNet)](https://sites.google.com/view/caulagenet/home).
+I am currently also a graduate fellow in the [European Studies Council](https://macmillan.yale.edu/europe/person/richard-luo) at Yale and a member of the [Caucasian Languages in Georgia International Research Network (CauLaGeNet)](https://sites.google.com/view/caulagenet/home).
 
-Outside of linguistics, I like to indulge in various card/board games, classical music, and nature hiking.
+Outside of linguistics, I like to indulge in card/board games, classical music, and nature hiking.
