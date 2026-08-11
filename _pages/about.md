@@ -10,8 +10,8 @@ redirect_from:
 I am an incoming fourth-year Ph.D. student at [Yale Linguistics](https://ling.yale.edu/). My research lies primarily in syntax and its interfaces with morphology and semantics, with a specialization in linguistic fieldwork on languages spoken in the (South) Caucasus. Listed below are my narrower set of research interests:
 
 - clausal complementation
-    * *control theory*
     * *(non-)finiteness*
+    * *obligatory control*
     * *interrogative embedding*
     <!-- * indexical shift -->
 - deverbal nominalization
@@ -25,6 +25,6 @@ I am an incoming fourth-year Ph.D. student at [Yale Linguistics](https://ling.ya
 
 Currently, I am also a graduate fellow in the [European Studies Council](https://macmillan.yale.edu/europe/person/richard-luo) at Yale and a member of the [Caucasian Languages in Georgia International Research Network (CauLaGeNet)](https://sites.google.com/view/caulagenet/home).
 
-My surname is pronounced as \[lυ̯ɔ\] with a rising tone, but I also accept \[luˈoʊ\] in English conversation.
+My surname is pronounced as \[lυ̯ɔ\] with a rising tone; I also accept \[luˈoʊ\] in English conversation.
 
 Outside of linguistics, I like to indulge in card/board games, classical music, and nature hiking.
