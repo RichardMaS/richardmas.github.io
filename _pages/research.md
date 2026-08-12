@@ -14,7 +14,7 @@ author_profile: true
 
 Bondarenko, Tatiana, Jacob Fernandes, Kaden Holladay and **Richard Luo** (*forthcoming*). Interpreting Clausal Movement.
 
-**Luo, Richard** (2026). When is `or not' required in an embedded polar question? *Proceedings of the Linguistic Society of America 11 (1): 6095.* \[<a href="https://doi.org/10.3765/plsa.v11i1.6095" style="color: blue;">link</a>\]
+**Luo, Richard** (2026). When is 'or not' required in an embedded polar question? *Proceedings of the Linguistic Society of America 11 (1): 6095.* \[<a href="https://doi.org/10.3765/plsa.v11i1.6095" style="color: blue;">link</a>\]
 
 **Luo, Richard** (2025). Two flavors of control in Georgian: *decide* and *try*. *Proceedings of the 55th Annual Meeting of the North East Linguistic Society* (NELS) \[Volume II\], 99--108. Amherst, MA: GLSA Publications. \[<a href="https://ling.auf.net/lingbuzz/009086" style="color: blue;">link</a>\]
 
@@ -29,7 +29,7 @@ Bondarenko, Tatiana, **Richard Luo** and Vincent Rouillard (2024). Thinking stat
 
 **Luo, Richard** and Natasha Thalluri (2026). Choice functions and alternatives: two classes of Georgian *wh*-indefinites. Talk given at the *62th Annual Meeting of the Chicago Linguistic Society* (CLS 62). \[<a href="../files/Luo_Thalluri_CLS_62_slides.pdf" style="color: blue;">slides</a>\]
 
-**Luo, Richard** (2026). When is `or not' required in an embedded polar question? Poster presented at the *Linguistics Society of America* (LSA) *2026 Annual Meeting.* \[<a href="https://tinyurl.com/embedded-or-not" style="color: blue;">poster</a>\] \[<a href="../files/Luo_LSA_2026_supplementary_material.pdf" style="color: blue;">supplementary material</a>\]
+**Luo, Richard** (2026). When is 'or not' required in an embedded polar question? Poster presented at the *Linguistics Society of America* (LSA) *2026 Annual Meeting.* \[<a href="https://tinyurl.com/embedded-or-not" style="color: blue;">poster</a>\] \[<a href="../files/Luo_LSA_2026_supplementary_material.pdf" style="color: blue;">supplementary material</a>\]
 
 **Luo, Richard** (2025). I wonder if Georgian can tell us how *tu* embed(s) questions? Talk given at the *South Caucasian Chalk Circle 4* (SCCC-4). \[slides available upon request\]
 
