@@ -10,7 +10,7 @@ author_profile: true
 
 <!-- კვლევა: To be added!  -->
 
-# Publications
+## Publications
 
 Bondarenko, Tatiana, Jacob Fernandes, Kaden Holladay and **Richard Luo** (*forthcoming*). Interpreting Clausal Movement.
 
@@ -20,7 +20,8 @@ Bondarenko, Tatiana, Jacob Fernandes, Kaden Holladay and **Richard Luo** (*forth
 
 Bondarenko, Tatiana, **Richard Luo** and Vincent Rouillard (2024). Thinking statively and dynamically: a view from Georgian. \[[link](https://drive.google.com/file/d/1zkIsnLyTOwteUhoB4pmAtJkcg1DVYXCj/view)\]
 
-# Conference Presentations
+
+## Conference Presentations
 
 **Luo, Richard** (2026). A Goldilocks dilemma for clause size: nominalization and finiteness in Georgian. Talks given at the *Salzburg Comparative Syntax* (SalCoS) *Workshop* and *CauLaGeNet Workshop*. \[handout available upon request\]
 
