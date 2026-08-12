@@ -14,9 +14,9 @@ author_profile: true
 
 Bondarenko, Tatiana, Jacob Fernandes, Kaden Holladay and **Richard Luo** (*forthcoming*). Interpreting Clausal Movement.
 
-**Luo, Richard** (2026). When is `or not' required in an embedded polar question? *Proceedings of the Linguistic Society of America 11 (1): 6095.* \[[<a href="https://doi.org/10.3765/plsa.v11i1.6095" style="color: blue;">link</a>\]
+**Luo, Richard** (2026). When is `or not' required in an embedded polar question? *Proceedings of the Linguistic Society of America 11 (1): 6095.* \[<a href="https://doi.org/10.3765/plsa.v11i1.6095" style="color: blue;">link</a>\]
 
-**Luo, Richard** (2025). Two flavors of control in Georgian: *decide* and *try*. *Proceedings of the 55th Annual Meeting of the North East Linguistic Society* (NELS) \[Volume II\], 99--108. Amherst, MA: GLSA Publications. \[[<a href="https://ling.auf.net/lingbuzz/009086" style="color: blue;">link</a>\]
+**Luo, Richard** (2025). Two flavors of control in Georgian: *decide* and *try*. *Proceedings of the 55th Annual Meeting of the North East Linguistic Society* (NELS) \[Volume II\], 99--108. Amherst, MA: GLSA Publications. \[<a href="https://ling.auf.net/lingbuzz/009086" style="color: blue;">link</a>\]
 
 Bondarenko, Tatiana, **Richard Luo** and Vincent Rouillard (2024). Thinking statively and dynamically: a view from Georgian. *Proceedings of the Amsterdam Colloquium 2024*. \[<a href="https://drive.google.com/file/d/1zkIsnLyTOwteUhoB4pmAtJkcg1DVYXCj/view" style="color: blue;">link</a>\]
 
